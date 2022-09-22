@@ -7,5 +7,5 @@ The purpose of this analysis is to analyze Citibike data from NYC to determine i
 * How long are the bikes typically used?
 ## Analysis
 The first vizualization was created to determine the trip duration for users.
-!(images/Checkout_Times_by_Gender.png)
+![My Image](images/Checkout_Times_by_Gender.png)
 ## Summary
