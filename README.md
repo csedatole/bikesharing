@@ -7,11 +7,11 @@ The purpose of this analysis is to analyze Citibike data from NYC to determine i
 * How long are the bikes typically used?
 ## Analysis
 The first vizualization was created to determine the trip duration for users.
-![My Image](images/Checkout_Times_by_Gender.png)
+![My Image](images/Checkout_Times_for_Users.png)
 From this image, we can determine that the majority of rides are between 0-10 minutes long.
 
 The next vizualization used the same data but further filtered by gender.
-![My Image](images/Checkout_Times_for_Users.png)
+![My Image](images/Checkout_Times_by_Gender.png)
 From this image, we can determine that the vast majority of users are male, and the average trip duration is the same across all genders.
 
 The next vizualization was created to determine the times of day/days of the week when the service was utilized the most
