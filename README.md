@@ -26,3 +26,4 @@ The last vizualization utilizes customer/subscriber data to determine when the s
 ![My Image](images/User_Trips_by_Gender.png)
 From this image, we can determine the majority of people subscribed to the service are male, whereas the non-subscribed users have a pretty even split between male and female.
 ## Summary
+In summary, there were many things we can gain from this data. The majority of users of this service are male, and the service is utilized the most to get people to and from work. Men comprise the highest number of people subscribed to the service, whereas non-subscribers are split by gender. Additionally, the average time spent using the service is short, between 0-10 minutes. Two further vizualizations of the data that could be useful include age information which can be used to target certain demographics and location information to determine where the bikes can be put to be used the most.
